@@ -1,0 +1,234 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+}
+a
+{
+    text-decoration: none;
+}
+.things
+{
+  float: right;
+}
+ul
+{
+    display: flex;
+    list-style-type: none;
+}
+li
+{
+    margin: 17px 30px;
+    padding: auto;
+}
+.fa-solid
+{
+    margin-right: 8px;
+}
+section
+{
+    background-image: url("ashay01.png");
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+a
+{
+    position: relative;
+    color: white;
+}
+#main
+{
+    padding-top: 500px;
+    color: rgb(245, 245, 245);
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Smooch', cursive;
+}
+#milano
+{
+    display: inline-block;
+    color: black;
+    border: none;
+    background-color: #ffffff;
+    padding: 5px;
+    font-size: 20px;
+}
+a:hover:after
+{
+    content:"";
+    position: absolute;
+    background-color: lightblue;
+    height: 3px;
+    width: 100%;
+    left: 0%;
+    bottom: -10px;
+}
+h3
+{
+    text-align:center;
+    margin-top: 20px;
+    font-size: 40px;
+    font-family: 'Rubik Moonrocks', cursive;
+}
+#weeks
+{
+    border-bottom: 6px rgb(55, 168, 206) double;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+#great
+{
+    margin: auto;
+    justify-content: space-between;
+    display: flex;
+}
+.kaju
+{
+    margin-left: 150px;
+}
+.saju
+{
+    margin-right: 150px;
+}
+b
+{
+    font-family: 'Dancing Script', cursive;
+    font-size: 25px;
+}
+.ashay
+{
+    font-size: 20px;
+}
+body
+{
+  background-color: antiquewhite;
+}
+.ashay1
+{
+    display: none;
+}
+.things ul li:hover .ashay1
+{
+    display: block;
+    position: absolute;
+    background: lightblue;
+    margin-top: 15px;
+    margin-left: -15px;
+}
+.things ul li:hover .ashay1 ul
+{
+    display: block;
+    margin: 10px;
+}
+.things ul li:hover .ashay1 ul li
+{
+    width: 150px;
+    padding: 10px;
+    border-bottom: 1px dotted white;
+    background: transparent;
+    border-radius: 0;
+    text-align: left;
+}
+.things ul li:hover .ashay1 ul li a:hover
+{
+    color: red;
+}
+ .monkey .fa-solid
+{
+    margin-top: 100px;
+}
+.monkey1
+{
+    background-color: grey;
+}
+header
+{
+   background-color: black;
+   color: white;
+   margin: auto;
+}
+.black
+{
+    padding-top: 50px;
+}
+.lemon
+{
+    text-align: center;
+    margin-top: 40px;
+}
+.lemon1
+{
+    justify-content: space-between;
+    margin: auto;
+    padding-left: 320px;
+}
+.lemon1 ul li:hover .ashay1
+{
+    display: block;
+    position: absolute;
+    background: lightblue;
+    margin-top: 15px;
+    margin-left: -15px;
+}
+.lemon1 ul li:hover .ashay1 ul
+{
+    display: block;
+    margin: 10px;
+}
+.lemon1 ul li:hover .ashay1 ul li
+{
+    width: 150px;
+    padding: 10px;
+    border-bottom: 1px dotted white;
+    background: transparent;
+    border-radius: 0;
+    text-align: left;
+}
+.lemon1 ul li:hover .ashay1 ul li a:hover
+{
+    color: red;
+}
+#vicky
+{
+    border-bottom: 6px white solid;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.majdur
+{
+    justify-content: space-between;
+    display: flex;
+}
+.shinchan
+{
+    margin-left: 100px;
+}
+.suthar
+{
+    margin-right: 100px;
+}
+.kanjus
+{
+    margin-left: 38%;
+}
+.monkey3
+{
+    background-color: grey;
+}
+.monkey1 .fa-solid
+{
+    color: lightblue;
+}
+.monkey2 .fa-solid
+{
+    color: red;
+}
+.monkey3 .fa-solid
+{
+    color: green;
+}
+.monkey4 .fa-solid
+{
+    color: blue;
+}

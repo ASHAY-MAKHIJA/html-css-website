@@ -1,0 +1,140 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+section
+{
+    background-image: url("./ashay2.jpg");
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+header
+{
+    display: flex;
+    justify-content: space-between;
+}
+#logo
+{
+    font-size: 40px;
+    margin-top: 10px;
+    margin-left: 100px;
+    color: white;
+}
+
+ul
+{
+    margin-right: 100px;
+    list-style-type: none;
+}
+#lime:hover
+{
+  background-color: blue;
+}
+li
+{
+  font-size: 18px;
+  display: inline-block;
+  padding: 20px; 
+  margin-top: 10px;  
+}
+a
+{
+    text-decoration: none;
+    color: white;
+}
+#max
+{
+    text-align: center;
+    margin-top: 400px;
+    font-size: 30px;
+    color: white;
+}
+#milano
+{
+    display: inline-block;
+    color: black;
+    border: none;
+    background-color: #ffffff;
+    padding: 5px;
+    font-size: 20px;
+}
+#milano:hover
+{
+    background-color: blue;
+}
+#txt{
+    padding-top: 1%;
+    text-align: center;
+}
+.fas
+{
+    color: yellow;
+    margin-top: 50px;
+}
+#hangover
+{
+    margin: auto;
+    justify-content: space-between;
+    display: flex;
+}
+p
+{
+  font-size: 25px;
+}
+#monkey
+{
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+}
+.ashay
+{
+    font-size: 40px;
+}
+.majnu
+{
+    background-color: grey;
+    box-sizing: border-box;
+    width: 25%;
+    height: 250px;
+    padding-left: 120px;
+}
+.sanju
+{
+    background-color: aliceblue;
+    box-sizing: border-box;
+    width: 25%;
+    height: 250px;
+    padding-left: 120px;
+}
+.pangu
+{
+    background-color: aliceblue;
+    box-sizing: border-box;
+    width: 25%;
+    height: 250px;
+    padding-left: 55px;
+}
+.line
+{
+    border-bottom: 6px yellow solid;
+    margin-left: 550px;
+    margin-right: 550px;
+}
+.process-icon
+{
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    line-height: 70px;
+    background-color: #333;
+    transition: all 1s;
+}
+.process-icon:hover{
+    background-color: yellow;
+    width: 90px;
+    height: 90px;
+    line-height: 90px;
+}
